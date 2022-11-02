@@ -1,6 +1,6 @@
 # How to use effects view in ListView (SfListView) Xamarin.Forms
 
-This repository contains sample for how to use EffectsView in the [Syncfusion Xamarin.Forms ListView](https://help.syncfusion.com/xamarin/listview/getting-started) control.
+This repository contains sample to use [Effects View](https://help.syncfusion.com/xamarin/effects-view/getting-started) in the [Syncfusion Xamarin.Forms ListView](https://help.syncfusion.com/xamarin/listview/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/11030/how-to-use-effects-view-in-listview-sflistview-xamarin-forms).
 
@@ -8,6 +8,7 @@ Please refer the KB through this [link](https://www.syncfusion.com/kb/11030/how-
 
 This project used the following Syncfusion control(s):
 * [SfListView](https://www.syncfusion.com/xamarin-ui-controls/xamarin-listview)
+* [SfEffectsView](https://www.syncfusion.com/xamarin-ui-controls/xamarin-effects-view)
 
 ## Supported platforms
 
